@@ -48,7 +48,7 @@ class App extends Component{
         </p>
         </header>
         <Score total={this.state.score}
-        goal={8}
+        goal={12}
         status={this.state.status} />
 
         <Wrapper>
@@ -62,7 +62,7 @@ class App extends Component{
           ))}
         </Wrapper>
         <footer>
-
+         <a href="">Github Repository link</a>
         </footer>
       </div>
     );

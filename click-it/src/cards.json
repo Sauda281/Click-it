@@ -1,6 +1,6 @@
 [{
-    "id": 1,
-    "image": "https://cdn.pixabay.com/photo/2014/08/19/12/14/digital-art-421415__480.png" 
+      "id": 1,
+      "image": "https://cdn.pixabay.com/photo/2014/08/19/12/14/digital-art-421415__480.png" 
 
 },
 {
@@ -20,12 +20,12 @@
        "image": "https://cdn.pixabay.com/photo/2016/03/31/17/34/art-1293752__480.png" 
 },
 {
-        "id": 6,
-        "image": "https://cdn.pixabay.com/photo/2014/12/22/00/07/tree-576823__480.png"
+         "id": 6,
+         "image": "https://cdn.pixabay.com/photo/2014/12/22/00/07/tree-576823__480.png"
 },
 {
          "id": 7,
-        "image": "https://cdn.pixabay.com/photo/2016/02/16/15/28/border-1203429__480.jpg"
+         "image": "https://cdn.pixabay.com/photo/2016/02/16/15/28/border-1203429__480.jpg"
 },
 {
            "id": 8,

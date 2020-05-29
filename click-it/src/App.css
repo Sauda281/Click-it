@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+.App-title{
+  font-weight: 900;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size:3em;
+}
+
+.App-intro{
+  color: blue;
+  font-size: 2em;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
