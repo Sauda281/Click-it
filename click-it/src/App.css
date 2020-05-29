@@ -14,14 +14,18 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("https://images.pexels.com/photos/630754/autumn-orange-nature-red-630754.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-color: #282c34; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: navy;
+  font-weight: 800;
 }
 
 .App-link {
